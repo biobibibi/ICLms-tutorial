@@ -1,8 +1,8 @@
 # ICLms-tutorial
 
-Welcome to the ICLms tutorial! 
 ![Figure_ICLms TOC-01 拷贝](https://github.com/biobibibi/ICLms-tutorial/assets/53837584/7457dccc-a6b9-4f7d-9985-cd3e088b617b)
 
+Welcome to the ICLms tutorial! 
 ICLms is a multimodal analyzer for isotope chemical labeling LC-MS and MSI data processing. This page shows the instruction to operate the ICLms.
 
   * Prerequisite:<br />
