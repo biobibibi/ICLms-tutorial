@@ -2,14 +2,15 @@
 
 ![Figure_ICLms TOC-01 拷贝](https://github.com/biobibibi/ICLms-tutorial/assets/53837584/7457dccc-a6b9-4f7d-9985-cd3e088b617b)
 
-Welcome to the ICLms tutorial! 
+Welcome to the ICLms tutorial! <br />
+
 ICLms is a multimodal analyzer for isotope chemical labeling LC-MS and MSI data processing. This page shows the instruction to operate the ICLms.
 
   * Prerequisite:<br />
     * Install the ICLms after contacting the project manager.
-    * Prepare the light and heavy labeled LC-MS files and the MSI files, which contains the screened metabolites in-situ data, in a same directory. The supported data formats include ".mzML", ".raw" and ".imzmL".
+    * Prepare the light and heavy labeled LC-MS files and the MSI files, which contains the screened metabolites in-situ data, in a same directory. The supported data formats include ".mzML", ".ms2", ".raw" and ".imzmL".
     * Download R https://www.r-project.org/
-    * Install the R packages by running the "Package installation.R" code. 
+    * Install the R packages by running the "Package installation.R" code.
 
   * Tab1: ICL-LC-MS module <br />
     * Users could enter the reference m/z value for the light and heavy labeling reagent, the m/z differences, the retention time difference before clicking the "Raw files loading" button.
